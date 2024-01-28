@@ -1,0 +1,7 @@
+¿Qué es el README.md?
+
+El README.md es un archivo con formato Markdown y su función en la mayoría de casos es dar 
+instrucciones al usuario que descargo el programa de como usarlo, por ello
+es de los primeros archivos que se verá en la carpeta donde está el programa,
+además, uno de los otros casos de su uso es simplemente dar información sobre
+el proyecto o programa.

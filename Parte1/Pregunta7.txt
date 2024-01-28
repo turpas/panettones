@@ -1,0 +1,10 @@
+¿Cómo realizar un commit?
+
+Antes de realizar un commit, el repositorio tiene que tener archivo(s) en
+seguimiento, a estos se les hará un commit, así que primero usaremos el comando
+
+" git add (archivo-seguimiento) "
+
+Después de realizar dicha acción ya se podría hacer un commit
+
+" git commit -m "(Una breve descripción del commit)" "
